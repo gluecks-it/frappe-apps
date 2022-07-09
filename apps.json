@@ -1,0 +1,46 @@
+{
+  "apps": [{
+    "name": "Frappe Wiki",
+    "giturl": "https://github.com/frappe/wiki",
+    "weburl": "https://wiki.frappe.cloud",
+    "branch": [{"v13":"version-13"}] 
+  }, {
+    "name": "Frappe LMS",
+    "giturl": "https://github.com/frappe/lms",
+    "weburl": "https://www.frappelms.com",
+    "branch": [{"v13":"version-13"}] 
+  }, {
+    "name": "Frappe Healthcare",
+    "giturl": "https://github.com/frappe/healthcare",
+    "weburl": "https://www.frappelms.com",
+    "branch": [{"v14":"develop"}] 
+  }, {
+    "name": "ERPNext",
+    "giturl": "https://github.com/frappe/erpnext",
+    "weburl": "https://erpnext.com",
+    "branch": [{"v12":"version-12","v13":"version-13","v14":"version-14-beta"}] 
+  }, {
+    "name": "ERPNext PDF on Submit",
+    "giturl": "https://github.com/alyf-de/erpnext_pdf-on-submit",
+    "weburl": "https://alyf.de",
+    "branch": [{"v12":"version-12","v13":"version-13"}] 
+  }, {
+    "name": "ERPNext Nextcloud Backup Integration",
+    "giturl": "https://github.com/frappe/nextcloud-integration",
+    "branch": [{"v12":"version-12","v13":"version-13"}] 
+  }, {
+    "name": "ERPNext FinTS integration",
+    "giturl": "https://github.com/jHetzer/erpnextfints",
+    "branch": [{"v13":"main"}] 
+  }],
+  "helpsites": [{
+    "name": "Printing formats on DIN",
+    "giturl": "https://github.com/alyf-de/erpnext_druckformate",
+    "weburl": "https://alyf.de"
+  },{
+    "name": "Like ERNext less functions but in a App",
+    "giturl": "https://github.com/frappe/books",
+    "weburl": "https://frappebooks.com"
+  }]
+}
+  
