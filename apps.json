@@ -31,7 +31,7 @@
   }, {
     "name": "ERPNext FinTS integration",
     "giturl": "https://github.com/jHetzer/erpnextfints",
-    "branch": [{"v13":"main"}] 
+    "branch": [{"v13":"master"}] 
   }],
   "helpsites": [{
     "name": "Printing formats on DIN",
