@@ -31,9 +31,14 @@
     "branch": [{"v12":"version-12","v13":"version-13"}] 
   }, {
     "name": "ERPNext Nextcloud Backup Integration",
+    "giturl": "https://github.com/gluecks-it/nextcloud-integration.git",
+    "maintainer": "Glück's IT",
+    "branch": [{"v13":"version-13"}] 
+  }, {
+    "name": "ERPNext Nextcloud Backup Integration",
     "giturl": "https://github.com/frappe/nextcloud-integration",
     "maintainer": "frappe",
-    "branch": [{"v12":"version-12","v13":"version-13"}] 
+    "branch": [{"v12":"main"}] 
   }, {
     "name": "ERPNext FinTS integration",
     "giturl": "https://github.com/jHetzer/erpnextfints",
