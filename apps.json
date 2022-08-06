@@ -15,7 +15,7 @@
     "name": "Frappe Healthcare",
     "giturl": "https://github.com/frappe/healthcare",
     "weburl": "https://www.frappelms.com",
-    "maintainer": "frappe".
+    "maintainer": "frappe",
     "branch": [{"v14":"develop"}] 
   }, {
     "name": "ERPNext",
