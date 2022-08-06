@@ -3,34 +3,41 @@
     "name": "Frappe Wiki",
     "giturl": "https://github.com/frappe/wiki",
     "weburl": "https://wiki.frappe.cloud",
+    "maintainer": "frappe",
     "branch": [{"v13":"version-13"}] 
   }, {
     "name": "Frappe LMS",
     "giturl": "https://github.com/frappe/lms",
     "weburl": "https://www.frappelms.com",
+    "maintainer": "frappe",
     "branch": [{"v13":"version-13"}] 
   }, {
     "name": "Frappe Healthcare",
     "giturl": "https://github.com/frappe/healthcare",
     "weburl": "https://www.frappelms.com",
+    "maintainer": "frappe".
     "branch": [{"v14":"develop"}] 
   }, {
     "name": "ERPNext",
     "giturl": "https://github.com/frappe/erpnext",
     "weburl": "https://erpnext.com",
+    "maintainer": "frappe",
     "branch": [{"v12":"version-12","v13":"version-13","v14":"version-14-beta"}] 
   }, {
     "name": "ERPNext PDF on Submit",
     "giturl": "https://github.com/alyf-de/erpnext_pdf-on-submit",
     "weburl": "https://alyf.de",
+    "maintainer": "Alyf",
     "branch": [{"v12":"version-12","v13":"version-13"}] 
   }, {
     "name": "ERPNext Nextcloud Backup Integration",
     "giturl": "https://github.com/frappe/nextcloud-integration",
+    "maintainer": "frappe",
     "branch": [{"v12":"version-12","v13":"version-13"}] 
   }, {
     "name": "ERPNext FinTS integration",
     "giturl": "https://github.com/jHetzer/erpnextfints",
+    "maintainer": "jHetzer",
     "branch": [{"v13":"master"}] 
   }],
   "helpsites": [{
